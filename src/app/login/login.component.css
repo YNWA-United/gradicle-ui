@@ -1,0 +1,15 @@
+
+#login-box{
+    width: 800px;
+    height: 300px;
+    margin: auto;
+    margin-top: 150px;
+    padding-top:none!important ;
+}
+
+#login-title{
+width: 100%;
+margin: auto;
+text-align: center;
+font-size: 12px;
+}
