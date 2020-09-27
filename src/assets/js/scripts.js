@@ -253,9 +253,9 @@ jQuery(function ($) {
 
 
     // 7. magnify popup video
-    $('.video').magnificPopup({
-        type: 'iframe'
-    });
+    // $('.video').magnificPopup({
+    //     type: 'iframe'
+    // });
 
     //  8. ytplayer for hero background video
     $(".player").mb_YTPlayer();

@@ -1,0 +1,565 @@
+.mediaViewInfo {
+	--web-view-name: Blog;
+	--web-view-id: Blog;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Blog;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Blog_Class {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 1920px;
+	height: 4869px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Blog;
+	--web-view-id: Blog;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+.Scroll_Group_1 {
+	overflow: hidden;
+	position: absolute;
+	width: 540px;
+	height: 813px;
+	left: 690px;
+	top: 17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.blog_img3_Class {
+	position: absolute;
+	width: 540px;
+	height: 316px;
+	left: 0px;
+	top: 1345px;
+	overflow: visible;
+}
+.Group_2_Class {
+	position: absolute;
+	width: 1920px;
+	height: 802px;
+	left: 0px;
+	top: 148px;
+	overflow: visible;
+}
+.Scroll_Group_2 {
+	overflow: hidden;
+	position: absolute;
+	width: 1920px;
+	height: 579px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.blog_img3_s_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1125px;
+	left: 0px;
+	top: -201px;
+	overflow: visible;
+}
+.Rectangle_2_Class {
+	opacity: 0.955;
+}
+.Rectangle_2 {
+	filter: drop-shadow(3px 7px 20px rgba(0, 0, 0, 0.051));
+	position: absolute;
+	overflow: visible;
+	width: 1222px;
+	height: 512px;
+	left: 574px;
+	top: 350px;
+}
+.ID15_Inspiring_articles_that_y_Class {
+	position: absolute;
+	left: 664px;
+	top: 386px;
+	overflow: hidden;
+	width: 1005px;
+	height: 416px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgba(0,0,0,1);
+}
+.But_could_he_even_wait_till_th_Class {
+	position: absolute;
+	left: 185px;
+	top: 1050px;
+	overflow: visible;
+	width: 1552px;
+	height: 260px;
+	line-height: 60px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(121,121,121,1);
+}
+.Fix_decided_that_he_must_warn__Class {
+	position: absolute;
+	left: 506px;
+	top: 1370px;
+	overflow: visible;
+	width: 1141px;
+	height: 199px;
+	line-height: 40px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(121,121,121,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1162px;
+	height: 675px;
+	left: 506px;
+	top: 1682px;
+}
+.Group_1_Class {
+	opacity: 0.23;
+	position: absolute;
+	width: 27px;
+	height: 2043.5px;
+	left: 332px;
+	top: 1370px;
+	overflow: visible;
+}
+.Path_2_Class {
+	opacity: 0.37;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 10px;
+	height: 2039.909px;
+	left: 13.458px;
+	top: 13.591px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 27px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 27px;
+	height: 27px;
+	left: 0px;
+	top: 1115px;
+}
+.Group_3_Class {
+	position: absolute;
+	width: 1140px;
+	height: 975px;
+	left: 506px;
+	top: 2470px;
+	overflow: visible;
+}
+.ID1__Pride_and_Prejudice_by_Ja_Class {
+	position: absolute;
+	left: 0px;
+	top: 118px;
+	overflow: visible;
+	width: 1141px;
+	height: 857px;
+	line-height: 40px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(121,121,121,1);
+}
+.Steps_you_must_take__Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+	width: 827px;
+	height: 55px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+.Group_4_Class {
+	position: absolute;
+	width: 1920px;
+	height: 368px;
+	left: 0px;
+	top: 3516px;
+	overflow: visible;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 368px;
+	left: 0px;
+	top: 0px;
+}
+.Subscribe_to_Gradicle_Class {
+	position: absolute;
+	left: 690px;
+	top: 64px;
+	overflow: hidden;
+	width: 505px;
+	height: 58px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+.Get_all_the_latest___greatest__Class {
+	position: absolute;
+	left: 612px;
+	top: 126px;
+	overflow: visible;
+	width: 661px;
+	height: 41px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1167px;
+	height: 99px;
+	left: 415px;
+	top: 184px;
+}
+.Rectangle_6_bb {
+	position: absolute;
+	overflow: visible;
+	width: 326px;
+	height: 99px;
+	left: 1256px;
+	top: 184px;
+}
+.Subscribe_Class {
+	position: absolute;
+	left: 1301px;
+	top: 205px;
+	overflow: hidden;
+	width: 238px;
+	height: 58px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+.Email_address_Class {
+	position: absolute;
+	left: 503px;
+	top: 212px;
+	overflow: visible;
+	width: 505px;
+	height: 44px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 1719px;
+	height: 1px;
+	left: 100.5px;
+	top: 4218.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_5_Class {
+	position: absolute;
+	width: 1920px;
+	height: 336.5px;
+	left: 0px;
+	top: 3883px;
+	overflow: visible;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 263px;
+	left: 0px;
+	top: 0px;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 960px;
+	height: 263px;
+	left: 960px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.benjamin_voros_phIFdC6lA4E_uns_Class {
+	opacity: 0.22;
+	position: absolute;
+	width: 960px;
+	height: 336px;
+	left: 960px;
+	top: 0px;
+	overflow: visible;
+}
+.mauro_paillex_f6Tht3FGBVc_unsp_Class {
+	opacity: 0.22;
+	position: absolute;
+	width: 960px;
+	height: 336px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Steps_you_must_take_pre_applic_Class {
+	position: absolute;
+	left: 233px;
+	top: 106px;
+	overflow: visible;
+	width: 541px;
+	height: 143px;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+.Steps_you_must_take_post_appli_Class {
+	position: absolute;
+	left: 1141px;
+	top: 106px;
+	overflow: visible;
+	width: 541px;
+	height: 157px;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 335px;
+	left: 960.5px;
+	top: 1.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_28_Class {
+	position: absolute;
+	width: 611px;
+	height: 27px;
+	left: 1146px;
+	top: 67px;
+	overflow: visible;
+}
+.Group_27_Class {
+	position: absolute;
+	width: 611px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_26_Class {
+	position: absolute;
+	width: 611px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.head_board_Class {
+	position: absolute;
+	width: 611px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_3_br_Class {
+	position: absolute;
+	width: 611px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Home_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+	width: 63px;
+	height: 27px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Timeline_Class {
+	position: absolute;
+	left: 75px;
+	top: 0px;
+	overflow: hidden;
+	width: 92px;
+	height: 27px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Cources_Class {
+	position: absolute;
+	left: 179px;
+	top: 0px;
+	overflow: hidden;
+	width: 91px;
+	height: 27px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Webinar_s_Class {
+	position: absolute;
+	left: 282px;
+	top: 0px;
+	overflow: hidden;
+	width: 114px;
+	height: 27px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.News______Class {
+	position: absolute;
+	left: 408px;
+	top: 0px;
+	overflow: hidden;
+	width: 63px;
+	height: 27px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Contact_Class {
+	position: absolute;
+	left: 483px;
+	top: 0px;
+	overflow: hidden;
+	width: 129px;
+	height: 27px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.logo2_Class {
+	position: absolute;
+	width: 41px;
+	height: 72px;
+	left: 185px;
+	top: 45px;
+	overflow: visible;
+}
+.Gradicale_Copyright_2020_Proud_Class {
+	position: absolute;
+	left: 159px;
+	top: 4699px;
+	overflow: visible;
+	width: 366px;
+	height: 60px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+.logo2_b_Class {
+	position: absolute;
+	width: 41px;
+	height: 72px;
+	left: 93px;
+	top: 4687px;
+	overflow: visible;
+}
+.Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 310px;
+	height: 60px;
+	left: 1517px;
+	top: 4693px;
+}
+.Asset_2_Class {
+	position: absolute;
+	width: 401px;
+	height: 144px;
+	left: 760px;
+	top: 4483px;
+	overflow: visible;
+}
