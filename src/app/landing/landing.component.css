@@ -48,7 +48,9 @@ body {
 ol, ul {
     list-style: none;
 }
-
+fa{
+    padding: 2px 2px 2px 2px ;
+}
 blockquote, q {
     quotes: none;
 }
